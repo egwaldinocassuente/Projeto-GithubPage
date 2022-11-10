@@ -1,12 +1,16 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
     box-sizing: border-box;
 }
+
+
 body {
     background-color: black;
     color:#fff;
 }
+
+
 
 header {
     display:flex;
@@ -140,3 +144,5 @@ opacity: 50%;
     display:flex;
     margin-left: 600px;
 }
+
+*/
